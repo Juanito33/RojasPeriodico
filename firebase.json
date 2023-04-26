@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/piperiodico-jsrm",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
